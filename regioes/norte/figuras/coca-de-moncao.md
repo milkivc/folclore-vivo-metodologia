@@ -1,89 +1,139 @@
 # A Coca de Monção
 
-**Região:** Alto Minho — Monção, Viana do Castelo
-**Investigadores:** Eduardo Mauer e Nuno Araújo
-**Data do primeiro levantamento:** 2022
-**Estado:** Entrada em desenvolvimento — primeira pesquisa
+**Região:** Alto Minho — Monção, Viana do Castelo  
+**Investigadores:** Eduardo Mauer e Nuno A  
+**Data do primeiro levantamento:** 2022  
+**Estado:** Entrada em desenvolvimento — revista semanticamente em 2026-05-25  
+**Nível de validação:** estrutura revista; fontes específicas ainda a confirmar caso a caso
+
+---
+
+## Nota de revisão semântica
+
+Esta entrada foi revista para separar descrição documental, tradição festiva, hipótese simbólica, nota de campo e desdobramento artístico. A formulação anterior continha afirmações demasiado fechadas sobre origem, etimologia e continuidade pré-cristã. Essas passagens foram reformuladas como hipóteses interpretativas ou pontos a confirmar.
+
+**Correcções aplicadas:**
+
+- **Erro factual potencial:** a origem pré-cristã e a ligação directa a cultos serpentinos foram reformuladas como hipótese comparativa, não como facto provado.
+- **Erro semântico:** a Coca deixou de ser apresentada como sobrevivência linear de uma entidade antiga; passa a ser tratada como figura festiva, ritual e transfronteiriça com múltiplas camadas.
+- **Erro ortográfico:** corrigido “Tracionalmente” para “Tradicionalmente”.
+- **Fonte não verificada:** a referência a ata municipal de 1561 e a página específica de Teófilo Braga foram mantidas como pista a confirmar.
+- **Interpretação apresentada como facto:** deslocada para a secção de notas interpretativas.
+- **Formulação institucional frágil:** substituída por linguagem documental, prudente e verificável.
 
 ---
 
 ## 1. Apresentação
 
-A Coca de Monção é uma das figuras mais vivas e documentadas do imaginário popular do Norte de Portugal. Trata-se de uma criatura festiva — um dragão ou serpente alada — que aparece anualmente durante a Festa do Corpo de Deus, em confronto ritual com São Jorge. Esta entrada documenta o que Eduardo e Nuno encontraram nas fontes e no campo durante a primeira fase da pesquisa.
+A Coca de Monção é uma figura festiva do Alto Minho, associada à celebração do Corpo de Deus em Monção e ao confronto ritual com São Jorge. É geralmente descrita como criatura monstruosa, serpentina ou dracónica, construída para aparecer em contexto processional e comunitário.
+
+Esta entrada organiza a Coca como figura de tradição festiva, memória local, teatralidade ritual e identidade territorial. A pesquisa distingue o que pertence à prática festiva documentável, o que pertence à leitura simbólica e o que ainda exige confirmação bibliográfica ou arquivística.
 
 ---
 
 ## 2. Descrição simbólica e narrativa
 
-Tracionalmente representada como dragão ou serpente alada, a Coca surge anualmente durante a Festa do Corpo de Deus, enfrentando São Jorge numa batalha ritual. A vitória do santo é certa, mas o seu triunfo é temporário — todos sabem que o dragão renascerá no ano seguinte.
+Tradicionalmente representada como dragão, serpente ou monstro festivo, a Coca surge no contexto da Festa do Corpo de Deus, enfrentando São Jorge numa dramatização pública. A estrutura narrativa mais difundida opõe o cavaleiro cristão e a criatura monstruosa, mas a repetição anual do confronto impede que a figura seja lida apenas como inimigo vencido. A Coca regressa, reaparece e continua a ocupar lugar central no ritual.
 
-Os registos orais de Monção descrevem-na como criatura de corpo alongado e escamas verdes, com boca desmesurada e olhos ardentes, capaz de cuspir fogo ou fumo. É conduzida por homens sob um grande arcabouço de madeira e tecido, que serpenteia pelas ruas, avança sobre as crianças e ameaça morder os espectadores. Os habitantes descrevem-na como «a bicha que dorme no rio Minho» e desperta apenas na quinta-feira do Corpo de Deus.
+Nas descrições locais, a Coca pode surgir como criatura de corpo alongado, boca aberta, aparência ameaçadora e movimento serpenteante. A sua presença provoca medo lúdico, riso, excitação, participação infantil e reconhecimento comunitário. O seu valor cultural não está apenas na figura em si, mas no modo como organiza corpo colectivo, rua, festa, som, deslocação e memória.
 
-A origem do nome «Coca» é incerta — provável corruptela de *Cuca* ou *Cocaina*, termos medievais para designar espíritos devoradores. Em textos do século XV, *coca* já era sinónimo de monstro, de *cocatrix*, criatura híbrida entre serpente e galo — o basilisco. A cabeça da Coca de Monção é coroada por crista vermelha, reminiscente desta herança medieval.
+A origem do nome “Coca” deve ser tratada com prudência. Pode relacionar-se com famílias lexicais ibéricas de “coca”, “cuca” ou nomes de criaturas assustadoras do imaginário popular, mas qualquer etimologia específica deve ser confirmada por fonte linguística adequada antes de ser apresentada como conclusão.
 
 ---
 
 ## 3. Contexto histórico e social
 
-A Festa da Coca de Monção tem raízes documentadas desde o século XVI, embora o seu substrato simbólico remonte ao período pré-cristão. Os cultos serpentinos da Península Ibérica, estudados por Leite de Vasconcelos e José Mattoso, associavam o réptil à terra fecunda e à renovação sazonal. Com a cristianização, estas entidades foram reconfiguradas como monstros diabólicos, culminando nas lendas de São Jorge e do dragão.
+A Coca de Monção pertence ao conjunto de figuras festivas ibéricas em que criaturas monstruosas, serpentinas ou dracónicas entram em cortejos, procissões e celebrações públicas. A sua ligação ao Corpo de Deus e a São Jorge inscreve a figura num quadro cristão, mas a sua forma monstruosa e cíclica permite leituras simbólicas mais amplas.
 
-Monção, cidade fronteiriça e fortificada, desenvolveu uma cultura ritual de resistência e celebração. A Coca encarna o espírito guerreiro e cíclico da comunidade. Nos séculos XIX e XX, o ritual foi reinterpretado como atração folclórica e símbolo identitário — o dragão de madeira e pano, outrora objeto sagrado, tornou-se mascote turística, sem perder o substrato simbólico.
+A hipótese de uma relação com cultos serpentinos, ciclos agrários ou temporalidades pré-cristãs pode ser explorada, mas não deve ser apresentada como origem demonstrada sem base documental específica. A leitura mais segura é reconhecer que a Coca condensa camadas cristãs, festivas, teatrais, comunitárias e possivelmente anteriores, sem reduzir a figura a uma única fonte.
 
-As entrevistas conduzidas por Eduardo Mauer em 2023 revelam que muitos moradores ainda associam o som dos tambores ao «despertar da terra» e descrevem a Coca como «a guardiã do rio».
+Monção, enquanto território fronteiriço, reforça a dimensão transfronteiriça do fenómeno. A comparação com variantes galegas, como a Coca de Redondela, pode ajudar a compreender circulações, paralelos rituais e imaginários partilhados no espaço galaico-minhoto.
+
+A versão anterior referia entrevistas conduzidas em 2023. Essa informação deve permanecer como nota interna até existir ficha de campo, autorização, data, contexto e forma pública validada. Nesta versão, não é usada como prova documental pública.
 
 ---
 
 ## 4. Topónimos e variantes locais
 
-O culto da Coca concentra-se em Monção, mas encontra paralelos em Amarante, Barcelos, Ponte de Lima e Viana do Castelo. No Minho e no Douro, persistem topónimos como «Cova da Coca», «Ribeira da Bicha» e «Pedra da Serpe».
+O núcleo principal desta entrada é Monção, no Alto Minho. A relação com outros territórios deve ser organizada por grau de confirmação.
 
-A própria ponte de Monção sobre o rio Minho é conhecida localmente como «ponte da Coca» — acredita-se que a criatura repousa sob as suas águas.
+**Núcleo documentável a confirmar:**
 
-As variantes galegas da Coca de Redondela e da Serpe de Betanzos reforçam a natureza transfronteiriça do mito.
+- Monção — Festa do Corpo de Deus, São Jorge e Coca.
+
+**Paralelos e variantes a investigar:**
+
+- Redondela — Coca galega, em contexto festivo transfronteiriço.
+- Betanzos — serpes ou figuras dracónicas galegas, a confirmar por fonte específica.
+- Amarante, Barcelos, Ponte de Lima e Viana do Castelo — mencionados em versão anterior como paralelos, mas devem ser verificados antes de serem apresentados como variantes equivalentes.
+
+**Topónimos e designações a confirmar:**
+
+- “Cova da Coca”;
+- “Ribeira da Bicha”;
+- “Pedra da Serpe”;
+- “ponte da Coca”.
+
+Estes nomes devem ser confirmados por cartografia, fonte local, recolha oral autorizada ou bibliografia regional antes de integrarem uma versão publicável.
 
 ---
 
 ## 5. Primeiro relato documentado
 
-> O mais antigo registo escrito da Coca de Monção data de **1561**, numa ata municipal que menciona despesas «com o dragão que sai na procissão do Corpo de Deus». A referência é citada por Teófilo Braga em *O Povo Português nos seus Costumes, Crenças e Tradições* (1883, p. 412).
+**Estado da verificação:** a confirmar.
+
+A versão anterior indicava como primeiro registo uma ata municipal de 1561 com despesas “com o dragão que sai na procissão do Corpo de Deus”, citada por Teófilo Braga em *O Povo Português nos seus Costumes, Crenças e Tradições*. Essa referência deve ser preservada como pista bibliográfica relevante, mas não como conclusão fechada enquanto não forem confirmados o documento arquivístico, a edição, a página e a transcrição exacta.
+
+Formulação segura para uso actual:
+
+> A tradição da Coca de Monção é associada a registos históricos da festa do Corpo de Deus e a referências etnográficas oitocentistas. A data de 1561 e a menção ao “dragão” devem ser confirmadas em fonte primária ou em citação bibliográfica verificável antes de serem usadas como primeiro relato documentado definitivo.
 
 ---
 
 ## 6. Fontes académicas e complementares
 
-**Fontes primárias:**
-- Arquivo Municipal de Monção, *Livro das Festas* (1561–1779)
-- Teófilo Braga, *O Povo Português nos seus Costumes, Crenças e Tradições* (1883, p. 412)
-- Leite de Vasconcelos, *Etnografia Portuguesa*, vol. II (1913, p. 201)
-- Consiglieri Pedroso, *Contribuições para uma Mitologia Popular Portuguesa* (1897)
-- Alexandre Parafita, *Mitologia Popular Portuguesa* (2008)
+**Fontes principais a verificar:**
 
-**Fontes complementares:**
-- Museu do Traje de Viana do Castelo, coleção «Máscaras e Ritos do Minho»
-- Patrícia Lomba, *O Dragão e o Cavaleiro: Rituais de Confronto e Identidade em Monção* (tese de mestrado, U. Minho, 2018)
+- Arquivo Municipal de Monção, eventual “Livro das Festas” ou documentação municipal sobre a Festa do Corpo de Deus — a confirmar.
+- Teófilo Braga, *O Povo Português nos seus Costumes, Crenças e Tradições* — verificar edição, página e transcrição.
+- José Leite de Vasconcelos, *Etnografia Portuguesa* — verificar volume, página e referência à Coca ou a figuras festivas equivalentes.
+- Consiglieri Pedroso, *Contribuições para uma Mitologia Popular Portuguesa* — verificar pertinência directa.
+- Alexandre Parafita, *Mitologia Popular Portuguesa* — verificar referência à Coca e variantes regionais.
+
+**Referências que exigem confirmação antes de uso como prova:**
+
+- Museu do Traje de Viana do Castelo, colecção “Máscaras e Ritos do Minho” — a confirmar.
+- Patrícia Lomba, *O Dragão e o Cavaleiro: Rituais de Confronto e Identidade em Monção* — a confirmar.
+- Entrevistas de campo atribuídas a Eduardo Mauer em 2023 — manter fora da prova pública até ficha e autorização.
 
 ---
 
 ## 7. Notas interpretativas preliminares
 
-Nesta primeira fase da pesquisa, Eduardo e Nuno identificam na Coca um caso particularmente interessante de **figura dual** — simultaneamente ameaça e guardiã, criatura do caos e símbolo de renovação. Algumas observações iniciais:
+Nesta fase, Eduardo Mauer e Nuno A identificam na Coca uma figura particularmente relevante para pensar festa, medo lúdico, ritual público, fronteira e repetição comunitária.
 
-- O ciclo ritual anual — derrota simbólica da Coca, renascimento garantido no ano seguinte — parece codificar uma visão cíclica do tempo e da natureza, anterior à linearidade cristã.
-- A interpretação de Vasconcelos — «a serpente que São Jorge vence é a antiga deusa da terra, submetida mas não extinta» — é uma hipótese de trabalho que esta pesquisa considera plausível e que merece aprofundamento.
-- O confronto festivo entre o cavaleiro e o dragão pode ser lido não apenas como combate, mas como **encontro ritual de opostos** — uma dramaturgia do equilíbrio, não da extinção.
+As seguintes leituras são hipóteses interpretativas:
 
-Estas leituras são preliminares e serão revisitadas com o avanço da pesquisa.
+- O ciclo anual de confronto entre São Jorge e a Coca pode ser lido como dramatização da ordem e do excesso, não apenas como vitória definitiva do santo sobre o monstro.
+- A repetição da derrota e do regresso da Coca sugere uma temporalidade cíclica, em que o monstro é controlado, mas não eliminado.
+- A figura pode condensar camadas cristãs, agrárias, teatrais e comunitárias, sem que seja necessário reduzir a sua origem a uma única explicação.
+- A comparação com variantes galegas pode revelar uma continuidade cultural transfronteiriça entre Minho e Galiza.
+- A presença da Coca na rua activa medo, riso, corpo, infância, som e memória, funcionando como dispositivo público de coesão festiva.
+
+Estas hipóteses devem ser aprofundadas com documentação municipal, bibliografia etnográfica, comparação regional e trabalho de campo autorizado.
 
 ---
 
 ## 8. Desdobramentos possíveis
 
-- **Escultura MILK:** corpo robusto e serpentiforme, cabeça expressiva, sorriso ambíguo. Cores: verde esmeralda, vermelho intenso, dourado metálico.
-- **Instalação performativa:** acompanhada por gravações de gaitas e tambores.
-- **Pesquisa futura:** comparação sistemática com variantes galegas (Coca de Redondela, Serpe de Betanzos); aprofundar o papel da festa como rito de iniciação juvenil.
+- **Escultura MILK:** corpo robusto e serpentiforme, cabeça expressiva, sorriso ambíguo. Cores possíveis: verde esmeralda, vermelho intenso, dourado metálico.
+- **Instalação performativa:** ambiente sonoro com gaitas, tambores e deslocação processional, sem substituir a festa real por representação fechada.
+- **Pesquisa futura:** confirmar a documentação histórica da festa; comparar sistematicamente com Redondela e outras variantes galegas; estudar a Coca como dispositivo de medo lúdico e coesão comunitária.
 
 ---
 
-**Localização específica:** Monção (Viana do Castelo), com variantes em Redondela, Amarante e Viana
-**Primeiro relato documentado:** Livro das Festas de Monção, 1561; citado por Teófilo Braga (1883)
-**Fontes primárias:** Braga (1883); Vasconcelos (1913); Pedroso (1897); Parafita (2008); Lomba (2018)
+## Referências rápidas
+
+**Localização específica:** Monção, Alto Minho.  
+**Primeiro relato documentado:** a confirmar; pista anterior indica documentação municipal de 1561 e referência em Teófilo Braga.  
+**Fontes principais a verificar:** documentação municipal de Monção; Teófilo Braga; José Leite de Vasconcelos; Consiglieri Pedroso; Alexandre Parafita; fontes locais sobre Corpo de Deus e São Jorge.
