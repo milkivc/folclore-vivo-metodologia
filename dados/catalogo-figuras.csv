@@ -1,0 +1,4 @@
+slug,nome,regiao,sub_regiao,ficheiro,estado,investigadores,primeiro_levantamento,observacoes
+moura-encantada,A Moura Encantada,Norte,"Tras-os-Montes; Alto Minho; Douro Litoral",regioes/norte/figuras/moura-encantada.md,em_desenvolvimento,"Eduardo Mauer; Nuno A",2022,"Entrada existente antes da organizacao estrutural do repositorio"
+coca-de-moncao,A Coca de Moncao,Norte,"Alto Minho; Moncao; Viana do Castelo",regioes/norte/figuras/coca-de-moncao.md,em_desenvolvimento,"Eduardo Mauer; Nuno A",2022,"Entrada existente antes da organizacao estrutural do repositorio"
+trasgo-de-tras-os-montes,O Trasgo de Tras-os-Montes,Norte,"Tras-os-Montes; Braganca; Vinhais; Montalegre; Miranda do Douro",regioes/norte/figuras/trasgo-de-tras-os-montes.md,em_desenvolvimento,"Eduardo Mauer; Nuno A",2022,"Entrada existente antes da organizacao estrutural do repositorio"
