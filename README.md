@@ -32,7 +32,7 @@ Este repositório serve para:
 | Entradas documentadas | Moura Encantada; Coca de Monção; Trasgo de Trás-os-Montes |
 | Outras regiões | Estrutura preparada, ainda sem entradas validadas |
 | Governança documental | Criada neste repositório |
-| Protecção de dados e autoria | Criada neste repositório |
+| Cuidados de publicação | Criados neste repositório |
 | Licenciamento | Definido em `LICENSE.md` e `NOTICE.md` |
 
 ---
@@ -54,8 +54,8 @@ folclore-vivo-metodologia/
 ├── docs/
 │   ├── ARQUITETURA_REPOSITORIO.md
 │   ├── AUTORIA_DIREITOS_E_USO.md
+│   ├── CUIDADOS_PUBLICACAO.md
 │   ├── ESTADO_DO_REPOSITORIO.md
-│   ├── RGPD_E_DADOS_SENSIVEIS.md
 │   └── VALIDACAO_NAO_REGRESSAO.md
 │
 ├── metodologia/
@@ -121,7 +121,7 @@ O enquadramento de uso público, autoria, reutilização e limites de publicaç�
 - `LICENSE.md`
 - `NOTICE.md`
 - `docs/AUTORIA_DIREITOS_E_USO.md`
-- `docs/RGPD_E_DADOS_SENSIVEIS.md`
+- `docs/CUIDADOS_PUBLICACAO.md`
 
 Este repositório não autoriza a apropriação de conteúdos de terceiros, testemunhos orais identificáveis, imagens, gravações ou material comunitário sem autorização própria.
 
