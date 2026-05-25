@@ -2,38 +2,82 @@
 
 **Associação MILK — Movimento de Intervenções e Linguagens Kulturais e Arte**
 
-Este repositório documenta a metodologia de pesquisa desenvolvida no âmbito do programa **Folclore Vivo** da Associação MILK, iniciada na região Norte de Portugal e estruturada para ser progressivamente aplicada a todas as regiões do país.
+O **Folclore Vivo** é um programa de investigação, documentação e mediação cultural dedicado às figuras, narrativas, variantes locais, rituais, topónimos e permanências simbólicas do imaginário popular português.
 
-A primeira pesquisa sistemática foi conduzida por **Eduardo Mauer** e **Nuno Araújo**, a partir do levantamento etnográfico, bibliográfico e simbólico das figuras do imaginário popular do Norte de Portugal. Este trabalho inaugural serve de modelo metodológico para as pesquisas subsequentes.
+Este repositório organiza a metodologia pública do programa, iniciada na região Norte de Portugal por **Eduardo Mauer** e **Nuno A**, e preparada para expansão progressiva às restantes regiões do país.
+
+O repositório não é uma recolha indiscriminada de tradições. É uma infraestrutura documental de leitura cultural, com separação entre fonte, interpretação, autoria, território, uso público, direitos e estado de validação.
 
 ---
 
-## Estrutura do Repositório
+## Função do repositório
 
-```
+Este repositório serve para:
+
+1. documentar a metodologia de investigação do Folclore Vivo;
+2. organizar entradas regionais sobre figuras do imaginário popular português;
+3. preservar rastreabilidade entre fontes, território e interpretação;
+4. distinguir conteúdo verificado, hipótese interpretativa e material em revisão;
+5. preparar futura integração com o Atlas Vivo MILK e outros dispositivos culturais da Associação MILK;
+6. proteger autoria, direitos, consentimento, dados pessoais e integridade documental.
+
+---
+
+## Estado actual
+
+| Camada | Estado |
+|---|---|
+| Metodologia base | Em curso, estruturada |
+| Região Norte | Primeira região em desenvolvimento |
+| Entradas documentadas | Moura Encantada; Coca de Monção; Trasgo de Trás-os-Montes |
+| Outras regiões | Estrutura preparada, ainda sem entradas validadas |
+| Governança documental | Criada neste repositório |
+| Protecção de dados e autoria | Criada neste repositório |
+| Licenciamento | Definido em `LICENSE.md` e `NOTICE.md` |
+
+---
+
+## Estrutura organizada
+
+```text
 folclore-vivo-metodologia/
+├── README.md
+├── LICENSE.md
+├── NOTICE.md
+├── CONTRIBUTING.md
+├── GOVERNANCE.md
+├── investigadores.md
+│
+├── dados/
+│   └── catalogo-figuras.csv
+│
+├── docs/
+│   ├── ARQUITETURA_REPOSITORIO.md
+│   ├── AUTORIA_DIREITOS_E_USO.md
+│   ├── ESTADO_DO_REPOSITORIO.md
+│   ├── RGPD_E_DADOS_SENSIVEIS.md
+│   └── VALIDACAO_NAO_REGRESSAO.md
 │
 ├── metodologia/
-│   ├── guia-metodologico.md         ← Modelo base para todas as regiões
-│   ├── estrutura-de-entrada.md      ← Template de cada entrada de pesquisa
-│   └── criterios-de-selecao.md     ← Como identificar e selecionar figuras
+│   ├── guia-metodologico.md
+│   ├── estrutura-de-entrada.md
+│   └── criterios-de-selecao.md
 │
 ├── regioes/
-│   ├── norte/                       ← PRIMEIRA PESQUISA (Eduardo Mauer & Nuno Araújo)
+│   ├── README.md
+│   ├── norte/
 │   │   ├── README.md
-│   │   ├── figuras/
-│   │   │   ├── moura-encantada.md
-│   │   │   ├── coca-de-moncao.md
-│   │   │   ├── trasgo-de-tras-os-montes.md
-│   │   │   └── [outras entradas...]
-│   │   └── fontes-e-referencias.md
-│   │
-│   ├── centro/                      ← A desenvolver
-│   ├── lisboa-e-vale-do-tejo/       ← A desenvolver
-│   ├── alentejo/                    ← A desenvolver
-│   ├── algarve/                     ← A desenvolver
-│   ├── acores/                      ← A desenvolver
-│   └── madeira/                     ← A desenvolver
+│   │   ├── fontes-e-referencias.md
+│   │   └── figuras/
+│   │       ├── moura-encantada.md
+│   │       ├── coca-de-moncao.md
+│   │       └── trasgo-de-tras-os-montes.md
+│   ├── centro/README.md
+│   ├── lisboa-e-vale-do-tejo/README.md
+│   ├── alentejo/README.md
+│   ├── algarve/README.md
+│   ├── acores/README.md
+│   └── madeira/README.md
 │
 └── recursos/
     ├── bibliografia-geral.md
@@ -43,38 +87,48 @@ folclore-vivo-metodologia/
 
 ---
 
-## Princípio Metodológico
+## Método de trabalho
 
-Cada pesquisa regional parte de três eixos complementares:
+Cada entrada deve separar claramente:
 
-1. **Levantamento documental** — identificação das primeiras fontes escritas, académicas e etnográficas sobre cada figura
-2. **Recolha oral e de campo** — entrevistas, tradições vivas, variantes locais e topónimos associados
-3. **Leitura simbólica e interpretativa** — análise do significado cultural, histórico e contemporâneo de cada figura, com abertura para leituras plurais (género, identidade, ecologia, memória)
-
-Esta estrutura garante que cada pesquisa regional seja **autónoma mas comparável**, permitindo no futuro um mapa nacional do imaginário popular português.
-
----
-
-## Estado Atual da Pesquisa
-
-| Região | Estado | Investigadores |
-|---|---|---|
-| Norte | 🟢 Em curso — primeira pesquisa | Eduardo Mauer & Nuno Araújo |
-| Centro | 🔵 A iniciar | — |
-| Lisboa e Vale do Tejo | 🔵 A iniciar | — |
-| Alentejo | 🔵 A iniciar | — |
-| Algarve | 🔵 A iniciar | — |
-| Açores | 🔵 A iniciar | — |
-| Madeira | 🔵 A iniciar | — |
+- **descrição documental**, baseada em fontes, território e variantes;
+- **primeiro relato identificado**, com referência bibliográfica ou arquivística;
+- **fontes primárias e secundárias**, sempre que possível em ordem cronológica;
+- **toponímia e variantes locais**, com indicação geográfica;
+- **interpretação MILK**, marcada como leitura contemporânea e não como facto histórico;
+- **estado de validação**, para impedir que material incompleto seja apresentado como definitivo.
 
 ---
 
-## Contexto
+## Regras de integridade
 
-Este projeto insere-se no programa **Folclore Vivo** da Associação MILK, que concebe o folclore como **território fluido** — não como museu de tradições fixas, mas como sistema simbólico vivo, em constante ressignificação. As figuras documentadas são estudadas tanto na sua dimensão histórica e etnográfica como na sua relevância para o pensamento contemporâneo sobre identidade, corpo, território e memória.
+Nenhuma entrada deve publicar dados pessoais, entrevistas integrais, imagens, gravações ou relatos identificáveis sem autorização adequada. Material oral recolhido em campo deve ser tratado segundo o princípio da minimização, consentimento informado, possibilidade de anonimização e revisão humana antes de publicação.
 
-A pesquisa do Norte constitui o **modelo inaugural** desta metodologia. Todas as pesquisas seguintes seguirão a mesma estrutura, adaptada às especificidades culturais e geográficas de cada região.
+As fontes antigas, académicas, museológicas e arquivísticas devem ser distinguidas de hipóteses contemporâneas. O repositório pode conter interpretação, mas essa interpretação deve permanecer rastreável e identificável como leitura da Associação MILK.
 
 ---
 
-*Associação MILK — milk@associacaomilk.pt*
+## Investigadores inaugurais
+
+A primeira pesquisa sistemática do Folclore Vivo foi conduzida por **Eduardo Mauer** e **Nuno A**, no âmbito da Associação MILK — Movimento de Intervenções e Linguagens Kulturais e Arte. A nota institucional dos investigadores está em `investigadores.md`.
+
+---
+
+## Licença e uso
+
+O enquadramento de uso público, autoria, reutilização e limites de publicação está descrito em:
+
+- `LICENSE.md`
+- `NOTICE.md`
+- `docs/AUTORIA_DIREITOS_E_USO.md`
+- `docs/RGPD_E_DADOS_SENSIVEIS.md`
+
+Este repositório não autoriza a apropriação de conteúdos de terceiros, testemunhos orais identificáveis, imagens, gravações ou material comunitário sem autorização própria.
+
+---
+
+## Contacto institucional
+
+**Associação MILK — Movimento de Intervenções e Linguagens Kulturais e Arte**
+
+Contacto público: `milk@associacaomilk.pt`
