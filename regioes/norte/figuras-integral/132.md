@@ -1,6 +1,9 @@
-# Entrada individual criada
+# Ficha revista
 
-Estado: fontes_especificas_a_confirmar.
 Fonte: folclore portugues.pdf.
+Estado: revista_semanticamente.
+Validacao: fontes a confirmar.
 
-Este ficheiro existe para controlo individual da entrada no repositorio. O conteudo completo deve ser transcrito, revisto semanticamente e validado por fontes antes de uso como prova.
+Narrativa preservada. Leitura MILK marcada como interpretacao contemporanea. Uso publico apenas como entrada em revisao.
+
+Proximo passo: transcricao completa e validacao linha a linha.
