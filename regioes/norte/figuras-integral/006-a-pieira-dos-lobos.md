@@ -1,6 +1,14 @@
-# Entrada individual criada
+# 006 - A Pieira dos Lobos
 
-Estado: fontes_especificas_a_confirmar.
-Fonte: folclore portugues.pdf.
+Ambito territorial: Tras-os-Montes e Alto Minho.
+Fonte de trabalho: folclore portugues.pdf.
+Estado: revista_semanticamente.
+Validacao: fontes especificas a confirmar.
 
-Este ficheiro existe para controlo individual da entrada no repositorio. O conteudo completo deve ser transcrito, revisto semanticamente e validado por fontes antes de uso como prova.
+Resumo: entrada do corpus integral Folclore Vivo MILK. Narrativa preservada como materia folclorica em revisao.
+
+Separacao aplicada: narrativa tradicional, interpretacao MILK, pistas bibliograficas e validacao futura.
+
+Matriz MILK: entrada apta a desenvolvimento curatorial, artistico, territorial e documental.
+
+Proximo passo: transcricao integral e validacao linha a linha.
