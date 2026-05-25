@@ -1,109 +1,149 @@
 # A Moura Encantada
 
-**Região:** Norte de Portugal (Trás-os-Montes, Alto Minho, Douro Litoral)
-**Investigadores:** Eduardo Mauer e Nuno Araújo
-**Data do primeiro levantamento:** 2022
-**Estado:** Entrada em desenvolvimento — primeira pesquisa
+**Região:** Norte de Portugal (Trás-os-Montes, Alto Minho, Douro Litoral)  
+**Investigadores:** Eduardo Mauer e Nuno A  
+**Data do primeiro levantamento:** 2022  
+**Estado:** Entrada em desenvolvimento — revista semanticamente em 2026-05-25  
+**Nível de validação:** estrutura revista; fontes específicas ainda a confirmar caso a caso
+
+---
+
+## Nota de revisão semântica
+
+Esta entrada foi revista para separar descrição documental, tradição oral, hipótese interpretativa e desdobramento artístico. Foram corrigidos problemas de formulação que apresentavam hipóteses como factos históricos fechados. As referências bibliográficas gerais foram preservadas, mas as referências arquivísticas ou estatísticas ainda não confirmadas foram marcadas como ponto de verificação.
+
+**Correcções aplicadas:**
+
+- **Erro factual potencial:** afirmações sobre deusas pré-romanas, sacerdotisas pagãs e cristianização foram reformuladas como hipótese interpretativa, não como facto demonstrado.
+- **Erro semântico:** a figura deixou de ser apresentada como sobrevivência directa e linear de cultos antigos; passa a ser descrita como campo de sobreposição entre memória territorial, lenda, alteridade e leitura contemporânea.
+- **Erro ortográfico:** normalização pontual de grafia e pontuação.
+- **Fonte não verificada:** referências a registos específicos não consultados directamente permanecem assinaladas como “a confirmar”.
+- **Interpretação apresentada como facto:** deslocada para a secção de notas interpretativas.
+- **Formulação institucional frágil:** substituída por linguagem documental, auditável e prudente.
 
 ---
 
 ## 1. Apresentação
 
-Este texto constitui um primeiro levantamento sobre a figura da Moura Encantada no Norte de Portugal. Nesta fase inicial, a pesquisa procura reunir descrições narrativas, variantes locais, referências toponímicas e fontes académicas que permitam compreender a persistência desta figura no imaginário português. As observações interpretativas apresentadas são hipóteses de trabalho, abertas a revisão.
+A Moura Encantada é uma das figuras mais recorrentes da tradição oral portuguesa, com forte presença em narrativas associadas a fontes, penedos, castros, ruínas, grutas, tesouros ocultos e lugares de passagem. No Norte de Portugal, a figura aparece em múltiplas variantes locais, sobretudo em zonas onde a memória popular associa a paisagem a marcas antigas, lugares liminares ou vestígios arqueológicos.
+
+Esta entrada reúne uma primeira organização documental e interpretativa sobre a presença da Moura Encantada em Trás-os-Montes, Alto Minho e Douro Litoral. O texto não pretende fixar uma origem única para a figura. Procura antes distinguir tradição oral, leitura histórica, hipótese simbólica e possibilidades contemporâneas de investigação artística e territorial.
 
 ---
 
 ## 2. Descrição simbólica e narrativa
 
-Entre as figuras mais antigas e recorrentes da tradição oral portuguesa, a Moura Encantada surge associada a grutas, fontes, penedos, castros e tesouros ocultos. Nas lendas recolhidas no Norte — especialmente em Trás-os-Montes, Alto Minho e Douro Litoral — aparece como mulher de beleza sobrenatural, guardiã de riquezas escondidas e portadora de saberes antigos. É simultaneamente figura de desejo e de perigo, de promessa e de ruína.
+Na tradição oral portuguesa, a Moura Encantada surge frequentemente como mulher de beleza extraordinária, associada a tesouros escondidos, água, pedras, castros, ruínas ou lugares de difícil acesso. Pode aparecer ao amanhecer, ao crepúsculo, em noites específicas ou em momentos ritualizados do calendário popular.
 
-Na tradição oral, é descrita como mulher alta, de longos cabelos negros ou dourados, vestida com mantos translúcidos, que surge ao amanhecer ou ao crepúsculo. Em algumas versões, penteia-se com pentes de ouro à beira de fontes. Noutras, aparece envolta em fumo, metade mulher, metade serpente. O seu olhar fascina quem o encontra — e o encontro raramente é sem consequências.
+As descrições variam de região para região. Em algumas versões, a Moura penteia longos cabelos com pente de ouro junto a uma fonte. Noutras, guarda riquezas enterradas, habita uma gruta ou aparece junto a uma pedra marcada. Existem também variantes em que a figura assume traços serpentinos, surgindo como mulher-serpente ou como presença encantada ligada à água e ao subsolo.
 
-Os contos mais antigos narram que as Mouras foram antigas deusas ou sacerdotisas pagãs, transformadas em encantadas quando o cristianismo se impôs sobre os cultos locais da terra e da água. Por isso permanecem presas aos montes, às pedras e aos rios, guardando riquezas que só poderão ser libertadas quando alguém quebrar o encanto — ritual que exige pureza e coragem, e que quase sempre falha.
+O núcleo narrativo mais recorrente envolve o encantamento, a promessa de libertação e a falha humana. Alguém encontra a Moura, recebe uma instrução ou enfrenta uma prova; a libertação depende de coragem, segredo, pureza ritual, ausência de medo ou cumprimento exacto de uma condição. Quase sempre a condição falha, e o encantamento permanece.
 
-O ciclo narrativo das Mouras é vasto. As versões transmontanas falam das Mouras do Castro de Avelãs, das Mouras do Alvão, das Mouras de Lamas de Orelhão, enquanto no Minho persistem as Mouras da Senhora da Peneda e as Mouras do Monte da Cividade. Cada região atribui-lhes funções específicas: ora protetoras das colheitas, ora sentinelas dos mortos, ora amantes traídas pelo tempo. Todas partilham a condição de liminaridade — seres entre mundos.
+No contexto do Norte, a figura aparece ligada a lugares como castros, montes, fontes e ruínas, mas cada topónimo deve ser verificado individualmente antes de ser apresentado como ocorrência documentada.
 
 ---
 
 ## 3. Contexto histórico e social
 
-Historicamente, o mito da Moura Encantada parece nascer do sincretismo entre antigas divindades femininas das águas e dos montes — como Nábia, Trebaruna e Ataecina — e a memória popular das ocupações árabes. O termo *moura* está etimologicamente associado a *maura*, «mulher do sul», mas a sua carga simbólica vai muito além da etnicidade.
+A Moura Encantada deve ser tratada como figura de grande densidade simbólica, não como personagem de origem única. A palavra “moura” remete, em muitos contextos, para a memória histórica e imaginária dos mouros, mas o uso popular do termo excede a referência étnica ou histórica. Em muitas lendas portuguesas, “mouro” e “moura” funcionam como nomes de alteridade, antiguidade, anterioridade ou pertença a um tempo não plenamente integrado na memória cristã e nacional.
 
-Desde a Idade Média, o imaginário cristão transformou as antigas divindades locais em figuras ambíguas: pagãs amaldiçoadas, ora demonizadas, ora santificadas. Nos séculos XV e XVI, com a expansão marítima e a reconfiguração das identidades ibéricas, a figura da Moura consolidou-se como símbolo da alteridade interna — o «outro» dentro de Portugal.
+É possível interpretar a figura como resultado de sobreposições entre memória histórica, narrativas de tesouro, cristianização de paisagens antigas, leitura popular de vestígios arqueológicos e construção simbólica da alteridade. Contudo, a ligação directa a divindades pré-romanas específicas — como Nábia, Trebaruna ou Ataecina — deve ser apresentada apenas como hipótese comparativa, salvo quando uma fonte académica a sustente explicitamente para um caso concreto.
 
-Durante o século XIX, a recolha etnográfica de Teófilo Braga e José Leite de Vasconcelos fixou a Moura Encantada como figura central do folclore português. Para Braga, ela representava a sobrevivência do «paganismo popular» nas camadas rurais; para Vasconcelos, era manifestação do espírito telúrico da terra.
+Durante o século XIX e início do século XX, a recolha etnográfica portuguesa contribuiu para fixar e comparar muitas destas narrativas. Teófilo Braga, Consiglieri Pedroso e José Leite de Vasconcelos são referências centrais para o estudo do imaginário popular português, mas cada citação concreta deve ser confirmada por edição, volume e página antes de ser usada como prova textual.
 
-Socialmente, a Moura funcionou também como mecanismo de transmissão moral — ensinava o respeito pelos lugares sagrados, a prudência no desejo, a reverência à natureza. Ao mesmo tempo, representava uma forma de resistência simbólica dentro de sociedades patriarcais: a mulher encantada, inacessível e poderosa, como imagem invertida da mulher submissa do quotidiano rural.
+Socialmente, as narrativas da Moura Encantada podem desempenhar várias funções: explicar marcas da paisagem, proteger lugares considerados perigosos ou sagrados, transmitir prudência perante o desejo, preservar memórias de lugares antigos e inscrever figuras femininas de poder num quadro narrativo ambíguo.
 
 ---
 
 ## 4. Topónimos e variantes locais
 
+A pesquisa inicial identificou a necessidade de mapear topónimos associados a “Moura”, “Penedo da Moura”, “Fraga da Moura”, “Fonte da Moura”, “Castro da Moura” e designações próximas. Estes nomes aparecem em várias regiões de Portugal, mas devem ser confirmados por fonte local, cartografia, recolha oral ou bibliografia específica.
+
+**Topónimos e associações a verificar no Norte:**
+
 **Trás-os-Montes:**
-- Moura de Lamas de Orelhão (Mirandela)
-- Moura do Castelo de Algoso (Mogadouro)
-- Moura do Alvão (Vila Real)
+- Moura de Lamas de Orelhão (Mirandela) — a confirmar por fonte local ou bibliográfica.
+- Moura do Castelo de Algoso (Mogadouro) — a confirmar por fonte local ou bibliográfica.
+- Moura do Alvão (Vila Real) — a confirmar por fonte local ou bibliográfica.
 
 **Minho:**
-- Moura da Senhora da Peneda (Arcos de Valdevez)
-- Moura de Giela (Ponte da Barca)
-- Moura de S. Bento (Terras de Bouro)
+- Moura da Senhora da Peneda (Arcos de Valdevez) — a confirmar por fonte local ou bibliográfica.
+- Moura de Giela (Ponte da Barca) — a confirmar por fonte local ou bibliográfica.
+- Moura de São Bento (Terras de Bouro) — a confirmar por fonte local ou bibliográfica.
 
 **Douro Litoral:**
-- Moura da Cividade (Guimarães)
-- Moura do Castelo de Lanhoso
-- Moura da Serra de Montemuro
+- Moura da Cividade (Guimarães) — a confirmar por fonte local ou bibliográfica.
+- Moura do Castelo de Lanhoso — a confirmar por fonte local ou bibliográfica.
+- Moura da Serra de Montemuro — a confirmar por fonte local ou bibliográfica.
 
-Esses topónimos estão frequentemente ligados a sítios arqueológicos: castros, penedos gravados, fontes e ruínas pré-romanas. Em muitos casos, o próprio relevo natural recebe o nome de «Penedo da Moura», «Fraga da Moura» ou «Fonte da Moura».
+**Variantes narrativas a conservar como categorias de trabalho:**
 
-As variantes linguísticas incluem *moura-serpente*, *moura-de-ouro* e *moura-fiandeira*, cada qual representando um aspecto do mesmo arquétipo.
+- moura encantada;
+- moura-serpente;
+- moura-de-ouro;
+- moura fiandeira;
+- moura guardiã de fonte;
+- moura guardiã de tesouro;
+- moura associada a castro, fraga ou penedo.
 
 ---
 
 ## 5. Primeiro relato documentado
 
-O primeiro relato literário identificável da Moura Encantada em território nortenho aparece em:
+**Estado da verificação:** a confirmar.
 
-> Teófilo Braga, *Contos Tradicionais do Povo Português*, vol. I (Lisboa, 1883), na narrativa «A Moura do Castelo de Lanhoso». Braga recolheu o conto em Guimarães e interpretou-o como «eco das divindades aquáticas e ctónicas da Lusitânia antiga».
+A versão anterior indicava Teófilo Braga, *Contos Tradicionais do Povo Português*, vol. I (Lisboa, 1883), como primeiro relato identificado para a Moura Encantada em território nortenho, com referência à narrativa “A Moura do Castelo de Lanhoso”. Esta indicação deve ser mantida como pista bibliográfica, mas não como conclusão definitiva enquanto não forem confirmados edição, volume, página, local de recolha e formulação exacta do texto.
+
+Formulação segura para uso actual:
+
+> Entre as fontes oitocentistas e novecentistas relevantes para o estudo das mouras encantadas devem ser verificados Teófilo Braga, Consiglieri Pedroso e José Leite de Vasconcelos. A identificação do primeiro relato documentado para cada variante regional exige confirmação bibliográfica caso a caso.
 
 ---
 
 ## 6. Fontes académicas e complementares
 
-**Fontes primárias:**
-- Teófilo Braga, *Contos Tradicionais do Povo Português*, vol. I (1883)
-- José Leite de Vasconcelos, *Etnografia Portuguesa*, vol. II (1913)
-- Consiglieri Pedroso, *Contribuições para uma Mitologia Popular Portuguesa* (1897)
-- Alexandre Parafita, *Mitologia Popular Portuguesa* (2008) — mapeou mais de 300 variantes, das quais cerca de 80 no Norte
+**Fontes principais a verificar:**
 
-**Fontes complementares:**
-- Arquivo Nacional da Torre do Tombo, cód. *Superstitiones Lusitaniae* (séc. XVII)
-- Museu Nacional de Arqueologia, coleção «Cultos Pré-Românicos»
-- Ana R. Figueiredo, *A Moura Encantada: Representações do Feminino e da Alteridade na Tradição Oral Portuguesa* (tese de doutoramento, U. do Minho, 2015)
-- DGPC, *Inventário Nacional do Património Imaterial*, registo «As Mouras Encantadas do Norte» (2019)
+- Teófilo Braga, *Contos Tradicionais do Povo Português*, 1883 — verificar volume, página e narrativa específica.
+- Teófilo Braga, *O Povo Português nos seus Costumes, Crenças e Tradições*, 1885 — verificar ocorrências relativas a mouras, encantamentos e tradições associadas.
+- Consiglieri Pedroso, *Contribuições para uma Mitologia Popular Portuguesa*, 1897 — verificar secções relevantes.
+- José Leite de Vasconcelos, *Etnografia Portuguesa* — verificar volume, páginas e entradas associadas.
+- Alexandre Parafita, *Mitologia Popular Portuguesa*, 2008 — verificar números, variantes e distribuição regional antes de citar dados quantitativos.
+
+**Referências que exigem confirmação antes de uso como prova:**
+
+- Arquivo Nacional da Torre do Tombo, códice ou referência “Superstitiones Lusitaniae” — a confirmar.
+- Museu Nacional de Arqueologia, colecção “Cultos Pré-Românicos” — a confirmar.
+- Ana R. Figueiredo, *A Moura Encantada: Representações do Feminino e da Alteridade na Tradição Oral Portuguesa* — a confirmar.
+- DGPC, registo “As Mouras Encantadas do Norte” — a confirmar.
 
 ---
 
 ## 7. Notas interpretativas preliminares
 
-Nesta primeira fase da pesquisa, Eduardo e Nuno identificam a Moura Encantada como uma figura particularmente fértil para pensar a relação entre território, memória e feminino na cultura portuguesa. Algumas linhas de interpretação iniciais:
+Nesta fase, Eduardo Mauer e Nuno A identificam a Moura Encantada como figura especialmente fértil para pensar a relação entre território, memória, desejo, alteridade e feminino na cultura portuguesa.
 
-- A Moura pode ser lida, em hipótese inicial, como figura ligada à **memória profunda do território português** — representação mítica dos povos pré-romanos e das civilizações esquecidas com a cristianização.
-- O «encantamento» — essa impossibilidade de libertação que se repete — parece ser uma metáfora da **persistência do que foi suprimido**: culturas, línguas, divindades, formas de vida que o tempo oficial apagou mas a terra guardou.
-- A ambiguidade moral da Moura — nem boa nem má, simultaneamente sedutora e perigosa — pode refletir a dificuldade histórica das sociedades patriarcais em lidar com figuras femininas de poder autónomo.
+As seguintes leituras devem ser entendidas como hipóteses interpretativas, não como factos históricos fechados:
 
-Estas são hipóteses de trabalho. A pesquisa continuará a aprofundá-las com novas fontes e perspetivas.
+- A Moura pode ser lida como figura de memória profunda do território, associada a lugares onde a paisagem conserva marcas antigas, ruínas ou vestígios materiais difíceis de integrar na história quotidiana.
+- O encantamento pode funcionar como metáfora da persistência do que permanece fora da narrativa oficial: línguas, cultos, corpos, formas de vida, memórias locais e temporalidades não lineares.
+- A ambiguidade moral da figura — simultaneamente desejável e perigosa — permite uma leitura sobre o modo como comunidades rurais e patriarcais narraram figuras femininas de poder, autonomia e inacessibilidade.
+- A associação à água, à pedra e ao tesouro pode indicar uma relação simbólica entre fertilidade, riqueza subterrânea, memória do lugar e proibição de acesso.
+
+Estas hipóteses devem continuar a ser confrontadas com fontes, variantes e trabalho de campo.
 
 ---
 
 ## 8. Desdobramentos possíveis
 
-- **Escultura MILK:** figura concebida segundo a Matriz Escultórica MILK — corpo compacto, cabeça expressiva, gesto de oferenda. Cores: rosa, lilás, vermelho, amarelo.
-- **Instalação:** «Mitos do Norte» — ambiente de penumbra, fundo negro fosco, luz dourada difusa.
-- **Pesquisa futura:** aprofundar a relação entre a Moura e os cultos pré-romanos às divindades aquáticas (Nábia, Trebaruna); explorar a dimensão das Mouras como figuras de memória coletiva feminina.
+- **Escultura MILK:** figura concebida segundo a Matriz Escultórica MILK, com corpo compacto, cabeça expressiva e gesto de oferenda. Cores possíveis: rosa, lilás, vermelho, amarelo.
+- **Instalação:** “Mitos do Norte” — ambiente de penumbra, fundo negro fosco, luz dourada difusa e relação com água, pedra e som subterrâneo.
+- **Pesquisa futura:** confirmar topónimos; verificar primeiras fontes; mapear variantes locais; aprofundar a relação entre mouras, fontes, castros e narrativas de tesouro; separar tradição oral viva de reconstrução literária.
 
 ---
 
-**Localização específica:** Trás-os-Montes (Mirandela, Mogadouro, Vila Real), Minho (Arcos de Valdevez, Ponte da Barca, Terras de Bouro), Douro Litoral (Guimarães, Póvoa de Lanhoso)
-**Primeiro relato documentado:** Teófilo Braga, *Contos Tradicionais do Povo Português*, vol. I, 1883
-**Fontes primárias:** Braga (1883); Vasconcelos (1913); Pedroso (1897); Parafita (2008); Figueiredo (2015); DGPC (2019)
+## Referências rápidas
+
+**Localização específica:** Trás-os-Montes, Alto Minho e Douro Litoral — com topónimos específicos ainda a confirmar.  
+**Primeiro relato documentado:** a confirmar por edição, volume e página.  
+**Fontes principais a verificar:** Teófilo Braga; Consiglieri Pedroso; José Leite de Vasconcelos; Alexandre Parafita; fontes locais e inventários patrimoniais.
