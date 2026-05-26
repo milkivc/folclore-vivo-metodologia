@@ -1,0 +1,52 @@
+name: Publicar release v0.1.0
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publicar-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Criar pacote ZIP do repositorio
+        run: |
+          zip -r folclore-vivo-metodologia-v0.1.0.zip . \
+            -x '.git/*' \
+            -x 'folclore-vivo-metodologia-v0.1.0.zip'
+
+      - name: Preparar notas da release
+        run: |
+          if [ -f RELEASE_v0.1.0.md ]; then
+            cp RELEASE_v0.1.0.md RELEASE_NOTES.md
+          else
+            cat > RELEASE_NOTES.md <<'EOF'
+          # v0.1.0 — Corpus Folclore Vivo MILK: estrutura auditada
+
+          Primeira versão pública auditada do repositório Folclore Vivo MILK.
+
+          Estado:
+          - auditoria interna concluída;
+          - corpus 001–138 amarrado em fichas;
+          - licença, aviso de uso, governança e matrizes documentais criadas;
+          - validação externa pendente;
+          - fontes específicas a confirmar.
+          EOF
+          fi
+
+      - name: Criar release GitHub
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v0.1.0
+          name: 'v0.1.0 — Corpus Folclore Vivo MILK: estrutura auditada'
+          body_path: RELEASE_NOTES.md
+          files: folclore-vivo-metodologia-v0.1.0.zip
+          draft: false
+          prerelease: false
+          make_latest: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
