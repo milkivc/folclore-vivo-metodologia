@@ -1,0 +1,66 @@
+name: Finalizar release oficial MILK v1.0.0
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/finalizar-release-oficial-v100.yml'
+      - 'RELEASE_NOTES_v1.0.0.md'
+      - '.zenodo.json'
+      - 'README.md'
+      - 'LICENSE.md'
+      - 'NOTICE.md'
+      - 'docs/**'
+      - 'metodologia/**'
+      - 'regioes/**'
+      - 'dados/**'
+
+permissions:
+  contents: write
+
+jobs:
+  finalizar-release-oficial:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repositório sem ações JavaScript
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git clone --depth 1 "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" source
+
+      - name: Validar ficheiros obrigatórios
+        run: |
+          test -f source/README.md
+          test -f source/LICENSE.md
+          test -f source/NOTICE.md
+          test -f source/.zenodo.json
+          test -f source/RELEASE_NOTES_v1.0.0.md
+
+      - name: Criar pacote ZIP oficial
+        run: |
+          cd source
+          git archive --format=zip --output=../folclore-vivo-metodologia-v1.0.0.zip HEAD
+          cd ..
+          test -s folclore-vivo-metodologia-v1.0.0.zip
+
+      - name: Remover releases e tags não oficiais
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release delete v0.1.0 --cleanup-tag --yes || true
+          gh release delete v1.0.0 --cleanup-tag --yes || true
+
+      - name: Publicar release oficial
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release create v1.0.0 \
+            folclore-vivo-metodologia-v1.0.0.zip \
+            --repo "$GITHUB_REPOSITORY" \
+            --target main \
+            --title 'Folclore Vivo — Metodologia de Pesquisa MILK v1.0.0' \
+            --notes-file source/RELEASE_NOTES_v1.0.0.md \
+            --latest
