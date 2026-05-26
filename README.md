@@ -4,9 +4,9 @@
 
 O **Folclore Vivo** é um programa de investigação, documentação e mediação cultural dedicado às figuras, narrativas, variantes locais, rituais, topónimos e permanências simbólicas do imaginário popular português.
 
-Este repositório organiza a metodologia pública do programa, iniciada na região Norte de Portugal por **Eduardo Mauer** e **Nuno A**, e preparada para expansão progressiva às restantes regiões do país.
+Este repositório organiza a camada pública da metodologia do programa, com trabalho inicial documentado na região Norte de Portugal por **Eduardo Mauer** e **Nuno A**, e estrutura preparada para futura expansão editorial, documental e regional mediante validação própria.
 
-O repositório não é uma recolha indiscriminada de tradições. É uma infraestrutura documental de leitura cultural, com separação entre fonte, interpretação, autoria, território, uso público, direitos e estado de validação.
+O repositório não é uma recolha indiscriminada de tradições nem reivindica exclusividade académica sobre o estudo do folclore português. É uma infraestrutura documental de leitura cultural, com separação entre fonte, interpretação, autoria, território, uso público, direitos e estado de validação.
 
 ---
 
@@ -14,7 +14,7 @@ O repositório não é uma recolha indiscriminada de tradições. É uma infraes
 
 Este repositório serve para:
 
-1. documentar a metodologia de investigação do Folclore Vivo;
+1. documentar a metodologia pública do Folclore Vivo;
 2. organizar entradas regionais sobre figuras do imaginário popular português;
 3. preservar rastreabilidade entre fontes, território e interpretação;
 4. distinguir conteúdo verificado, hipótese interpretativa e material em revisão;
@@ -27,13 +27,14 @@ Este repositório serve para:
 
 | Camada | Estado |
 |---|---|
-| Metodologia base | Em curso, estruturada |
-| Região Norte | Primeira região em desenvolvimento |
-| Entradas documentadas | Moura Encantada; Coca de Monção; Trasgo de Trás-os-Montes |
-| Outras regiões | Estrutura preparada, ainda sem entradas validadas |
+| Metodologia pública | Em curso, estruturada |
+| Região Norte | Região inicial em desenvolvimento documental |
+| Entradas actualmente presentes no repositório | Moura Encantada; Coca de Monção; Trasgo de Trás-os-Montes |
+| Outras regiões | Estrutura preparada, ainda sem entradas validadas neste repositório |
 | Governança documental | Criada neste repositório |
 | Cuidados de publicação | Criados neste repositório |
 | Licenciamento | Definido em `LICENSE.md` e `NOTICE.md` |
+| RGPD e dados sensíveis | Definido em `docs/RGPD_E_DADOS_SENSIVEIS.md` |
 
 ---
 
@@ -56,6 +57,7 @@ folclore-vivo-metodologia/
 │   ├── AUTORIA_DIREITOS_E_USO.md
 │   ├── CUIDADOS_PUBLICACAO.md
 │   ├── ESTADO_DO_REPOSITORIO.md
+│   ├── RGPD_E_DADOS_SENSIVEIS.md
 │   └── VALIDACAO_NAO_REGRESSAO.md
 │
 ├── metodologia/
@@ -108,9 +110,9 @@ As fontes antigas, académicas, museológicas e arquivísticas devem ser disting
 
 ---
 
-## Investigadores inaugurais
+## Investigadores do núcleo inicial
 
-A primeira pesquisa sistemática do Folclore Vivo foi conduzida por **Eduardo Mauer** e **Nuno A**, no âmbito da Associação MILK — Movimento de Intervenções e Linguagens Kulturais e Arte. A nota institucional dos investigadores está em `investigadores.md`.
+O núcleo inicial actualmente documentado no repositório, dedicado à região Norte de Portugal, foi desenvolvido por **Eduardo Mauer** e **Nuno A**, no âmbito da Associação MILK — Movimento de Intervenções e Linguagens Kulturais e Arte. Esta formulação não reivindica exclusividade académica, prioridade histórica geral ou carácter exaustivo sobre os estudos do folclore português.
 
 ---
 
@@ -122,6 +124,7 @@ O enquadramento de uso público, autoria, reutilização e limites de publicaç�
 - `NOTICE.md`
 - `docs/AUTORIA_DIREITOS_E_USO.md`
 - `docs/CUIDADOS_PUBLICACAO.md`
+- `docs/RGPD_E_DADOS_SENSIVEIS.md`
 
 Este repositório não autoriza a apropriação de conteúdos de terceiros, testemunhos orais identificáveis, imagens, gravações ou material comunitário sem autorização própria.
 
