@@ -1,0 +1,33 @@
+{
+  "title": "Folclore Vivo — Metodologia de Pesquisa MILK",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "description": "Repositório metodológico da Associação MILK para organização, preservação e publicação controlada do programa Folclore Vivo, dedicado à investigação, documentação e mediação cultural de figuras, narrativas, variantes locais, rituais, topónimos e permanências simbólicas do imaginário popular português.",
+  "creators": [
+    {
+      "name": "Associação MILK — Movimento de Intervenções e Linguagens Kulturais e Arte"
+    },
+    {
+      "name": "Vieira Cabral e Araujo, Eduardo Mauricio"
+    },
+    {
+      "name": "Nuno A."
+    }
+  ],
+  "keywords": [
+    "Associação MILK",
+    "Atlas Vivo MILK",
+    "Folclore Vivo",
+    "folclore português",
+    "património cultural imaterial",
+    "memória territorial",
+    "tradição oral",
+    "mediação cultural",
+    "curadoria territorial",
+    "governança documental",
+    "Portugal"
+  ],
+  "license": "EUPL-1.2",
+  "access_right": "open",
+  "language": "por"
+}
